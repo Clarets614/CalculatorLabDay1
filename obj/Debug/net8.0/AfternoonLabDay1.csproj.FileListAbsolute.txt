@@ -1,0 +1,15 @@
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\obj\Debug\net8.0\AfternoonLabDay1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\obj\Debug\net8.0\AfternoonLabDay1.AssemblyInfoInputs.cache
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\obj\Debug\net8.0\AfternoonLabDay1.AssemblyInfo.cs
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\obj\Debug\net8.0\AfternoonLabDay1.csproj.CoreCompileInputs.cache
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\obj\Debug\net8.0\AfternoonLabDay1.sourcelink.json
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\bin\Debug\net8.0\AfternoonLabDay1.exe
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\bin\Debug\net8.0\AfternoonLabDay1.deps.json
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\bin\Debug\net8.0\AfternoonLabDay1.runtimeconfig.json
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\bin\Debug\net8.0\AfternoonLabDay1.dll
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\bin\Debug\net8.0\AfternoonLabDay1.pdb
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\obj\Debug\net8.0\AfternoonLabDay1.dll
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\obj\Debug\net8.0\refint\AfternoonLabDay1.dll
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\obj\Debug\net8.0\AfternoonLabDay1.pdb
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\obj\Debug\net8.0\AfternoonLabDay1.genruntimeconfig.cache
+C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\obj\Debug\net8.0\ref\AfternoonLabDay1.dll
