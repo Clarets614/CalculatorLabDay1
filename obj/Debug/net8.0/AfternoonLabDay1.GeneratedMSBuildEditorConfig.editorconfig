@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AfternoonLabDay1
-build_property.ProjectDir = C:\Users\cstock\source\repos\AfternoonLabDay1\AfternoonLabDay1\
+build_property.ProjectDir = C:\Users\cstock\Documents\C# Projects\RoomCalculator\CalculatorLabDay1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

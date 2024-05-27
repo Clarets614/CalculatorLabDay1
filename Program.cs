@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
+﻿
 using System;
 
 Console.WriteLine("Hello, let's calculate the size of your classroom.");
@@ -18,11 +16,16 @@ Console.WriteLine("Second, please input the Width of the room.");
 
 float userWidth = float.Parse(Console.ReadLine());
 
-float roomArea = userLength * userWidth;
+//float roomArea = userLength * userWidth; removed this line to use the following methods instead
+//float roomPerimeter = 2 * (userLength + userWidth);removed this line to use the following methods instead
 
-float roomPerimeter = 2 * (userLength + userWidth);
-Console.WriteLine("Thank you!");
-Console.WriteLine("Area:" + roomArea + "\nPerimeter:" + roomPerimeter);
+float roomArea = CalculateArea(userLength, userWidth);
+float roomPerimeter = CalculatePerimeter(userLength, userWidth);
+
+
+
+Console.WriteLine($"Thank you!");
+Console.WriteLine($"Area:{roomArea}\nPerimeter:{roomPerimeter}");
 
 if ((roomArea > 0) && (roomArea <= 250)){
 
@@ -38,4 +41,16 @@ if (roomArea >= 650)
 {
 
     Console.WriteLine("You have a Large room to study in.");
+}
+
+//methods
+
+static float CalculatePerimeter(float length, float width)
+{
+    return 2 * (length + width);
+}
+
+static float CalculateArea(float length, float width)
+{
+    return length * width;
 }
